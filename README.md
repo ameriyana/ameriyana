@@ -3,7 +3,7 @@
 - 👀 I’m interested in Cyber Security, Automation, Artificial Intelegent And Other Tech Stack
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ...
-     @sayaeriiii@gmail.com
+     sayaeriiii@gmail.com
 
 <!---
 ameriyana/ameriyana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
