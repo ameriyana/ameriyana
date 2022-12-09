@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ameriyana
-![hi](https://tenor.com/bSycL.gif)
+![hi](https://github.com/ameriyana/ameriyana/blob/main/banzai-jkt48-jkt48.gif)
 - 👀 I’m interested in Cyber Security and All of the technology
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ...
