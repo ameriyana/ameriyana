@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @ameriyana
 ![hi](https://github.com/ameriyana/ameriyana/blob/main/banzai-jkt48-jkt48.gif)
+
+
+
 - 👀 I’m interested in Cyber Security, Automation, Artificial Intelegent And Other Tech Stack
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ...
